@@ -255,10 +255,10 @@ Size: ~150KB (compressed)
 
 | Issue | Contact |
 |-------|---------|
-| Technical Support | support@platform.com |
-| Bug Reports | bugs@platform.com |
-| Enterprise Sales | sales@platform.com |
-| Documentation | docs@platform.com |
+| Technical Support | bijuageorge73@gmail.com |
+| Bug Reports | bijuageorge73@gmail.com |
+| Enterprise Sales | bijuageorge73@gmail.com |
+| Documentation |bijuageorge73@gmail.com |
 
 ---
 
@@ -350,10 +350,9 @@ Potential Revenue: $10k+/month
 
 ## 📱 **Contact & Demo**
 
-- **Live Demo**: https://your-demo-url.com
-- **Documentation**: https://docs.your-platform.com
-- **GitHub**: https://github.com/your-repo
-- **Twitter**: @yourhandle
+- **Live Demo**: https://github.com/bijuageorge73-cyber/uidfk
+- **Documentation**: (https://github.com/bijuageorge73-cyber/uidfk)
+- **GitHub**: https://github.com/bijuageorge73-cyber/uidfk
 
 ---
 
